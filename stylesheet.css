@@ -1,0 +1,74 @@
+body{
+    color: whitesmoke;
+    background-color: slategrey;
+}
+.intro{
+        text-align: center;
+        padding-top: 20px;
+    color: black;
+    }
+h5{
+    text-align: left;
+font-size: large;
+padding-right: 90px;
+}
+p{
+    font-size: large;
+padding-left: 100px;
+    color: black;
+}
+.skills h4{
+    text-align: left;
+font-size: large;
+padding-right: 300px;
+}
+.skills ul{
+        color: black;
+    background: aliceblue none repeat scroll 0% 0%;
+    font-size: large;
+    padding-left: 100px;
+}
+
+.projects h4{
+    text-align: -moz-center;
+font-size: large;
+padding-left: 200px;
+}
+.projects ul{
+    font-size: large;
+padding-left: 100px;
+    color: black;
+}
+.history h4{
+    text-align: -moz-center;
+font-size: large;
+}
+.history p{
+    padding-left: 100px;
+}
+.education{
+    color: grey;
+    background: aliceblue none repeat scroll 0% 0%;
+}
+.edecation h4{
+    width: 100%;
+background-color: black;
+color: whitesmoke;
+text-align: -moz-left;
+padding-top: 5px;
+padding-left: 380px;
+}
+
+.education ul{
+    padding-left: 140px;
+}
+
+.education p{
+    padding-left: 140px;
+}
+footer{
+    text-align: right;
+    background-color: grey;
+    color: aliceblue;
+    padding-top: 10px;
+}
