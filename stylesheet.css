@@ -1,6 +1,7 @@
 body{
     color: whitesmoke;
     background-color: slategrey;
+    font-family: DidactGothic;
 }
 .intro{
         text-align: center;
@@ -21,12 +22,14 @@ padding-left: 100px;
     text-align: left;
 font-size: large;
 padding-right: 300px;
+    font-family: Lobster-Regular;
 }
 .skills ul{
         color: black;
     background: aliceblue none repeat scroll 0% 0%;
     font-size: large;
     padding-left: 100px;
+    font-family: Lobster-Regular;
 }
 
 .projects h4{
@@ -49,6 +52,7 @@ font-size: large;
 .education{
     color: grey;
     background: aliceblue none repeat scroll 0% 0%;
+    font-family: Lobster-Regular;
 }
 .edecation h4{
     width: 100%;
@@ -71,4 +75,5 @@ footer{
     background-color: grey;
     color: aliceblue;
     padding-top: 10px;
+    font-family: IndieFlower;
 }
